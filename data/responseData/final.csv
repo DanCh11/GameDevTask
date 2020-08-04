@@ -1,0 +1,290 @@
+,best_match_score,Proffesions Sample,Proffesions ONet,Data Value,Standard Error,Lower CI Bound,Upper CI Bound
+14272,0.666835535,Oral and Maxillofacial Surgeon,Oral and Maxillofacial Surgeons,4,0,4,4
+14018,0.580219323,Graduate Teaching Assistant,Graduate Teaching Assistants,3.88,0.13,3.63,4.12
+5552,0.525703198,Document Management Specialist,Document Management Specialists,3.88,0.23,3.43,4.32
+7885,0.438576329,Emergency Management Coordinator,Emergency Management Directors,4,0,4,4
+3637,0.362684538,Physician Assistant,Physician Assistants,4.12,0.13,3.88,4.37
+10976,0.314972413,Purchasing Manager,Purchasing Managers,3.75,0.16,3.43,4.07
+11931,0.291447944,Software Quality Assurance Analyst 1,Software Quality Assurance Engineers and Testers,3.88,0.13,3.63,4.12
+15278,0.290739122,Information Security,Information Security Analysts,4,0,4,4
+11982,0.287069173,Teacher,Teacher Assistants,3.12,0.13,2.88,3.37
+9454,0.287069173,teacher,Teacher Assistants,3.12,0.13,2.88,3.37
+6924,0.287069173,teacher,Teacher Assistants,3.12,0.13,2.88,3.37
+6520,0.28095108,Information Technology Technician,Information Technology Project Managers,4,0,4,4
+13551,0.256927518,Quality Control,Quality Control Systems Managers,4.12,0.13,3.88,4.37
+15984,0.240833785,Graphic Designer,Graphic Designers,3.25,0.16,2.93,3.57
+11581,0.230321055,Electricians Helper,Electricians,3,0,3,3
+14322,0.225565472,Customer Service Supervisor,Customer Service Representatives,3.38,0.18,3.02,3.73
+11631,0.220765119,Database Administrator,Database Administrators,3.5,0.19,3.13,3.87
+10572,0.209025701,Civil Engineer,Civil Engineers,4,0,4,4
+13501,0.200712731,Substitute Teacher,Teacher Assistants,3.12,0.13,2.88,3.37
+9659,0.200712731,Substitute Teacher,Teacher Assistants,3.12,0.13,2.88,3.37
+11681,0.200712731,Substitute Teacher,Teacher Assistants,3.12,0.13,2.88,3.37
+7582,0.187810676,Senior Validation Engineer,Validation Engineers,4.12,0.13,3.88,4.37
+13192,0.182904548,Answering Service Operator,"Switchboard Operators, Including Answering Service",3,0,3,3
+4844,0.177217618,Electrical Engineer,Electrical Engineers,3.88,0.13,3.63,4.12
+8443,0.169470972,food service leader,Food Service Managers,3.62,0.18,3.27,3.98
+2720,0.166119779,Systems Programmer/Web Developer,Web Developers,3.62,0.18,3.27,3.98
+15934,0.16055912,Sales Manager,Sales Managers,3.88,0.13,3.63,4.12
+4643,0.16055912,Sales Manager,Sales Managers,3.88,0.13,3.63,4.12
+11229,0.152171544,General Manager,General and Operations Managers,3.88,0.13,3.63,4.12
+10875,0.152171544,General Manager,General and Operations Managers,3.88,0.13,3.63,4.12
+9303,0.15143398,Water System Operator,Water and Wastewater Treatment Plant and System Operators,3.12,0.13,2.88,3.37
+5602,0.139678551,Senior Slot Tech,Slot Supervisors,2.88,0.13,2.63,3.12
+353,0.139173227,Customer Service Team Manager,Customer Service Representatives,3.38,0.18,3.02,3.73
+13401,0.133410336,Telecommunications Specialist,Telecommunications Engineering Specialists,3.62,0.18,3.27,3.98
+16243,0.133410336,Telecommunications Specialist,Telecommunications Engineering Specialists,3.62,0.18,3.27,3.98
+4794,0.132337884,Senior Logistics Associate,Logistics Managers,4,0,4,4
+17752,0.128484162,law enforcement,"Criminal Justice and Law Enforcement Teachers, Postsecondary",4,0,4,4
+18306,0.104388171,Quality Assurance Manager,Software Quality Assurance Engineers and Testers,3.88,0.13,3.63,4.12
+15781,0.093313682,Engineering Manager,Architectural and Engineering Managers,4.12,0.23,3.68,4.57
+15480,0.09312751,Production Manager,Industrial Production Managers,3.75,0.16,3.43,4.07
+13346,0.090649474,Sr. Web Analyst,Web Developers,3.62,0.18,3.27,3.98
+2670,0.088153765,Parts Manager,Parts Salespersons,3.88,0.13,3.63,4.12
+2114,0.085501666,Fire Protection Journeyman,Fire-Prevention and Protection Engineers,3.88,0.13,3.63,4.12
+7532,0.08171342,Software Developer,"Software Developers, Applications",3.12,0.13,2.88,3.37
+6365,0.08171342,Software Developer,"Software Developers, Applications",3.12,0.13,2.88,3.37
+15731,0.08171342,Software Developer,"Software Developers, Applications",3.12,0.13,2.88,3.37
+2467,0.079423656,Radiology Information Systems,Computer and Information Systems Managers,4,0,4,4
+15530,0.078861978,team lead,Team Assemblers,2.88,0.23,2.43,3.32
+14372,0.073103529,Operations Manager,General and Operations Managers,3.88,0.13,3.63,4.12
+18002,0.065597311,Team Leader,Team Assemblers,2.88,0.23,2.43,3.32
+10419,0.064875088,Sales Operations Manager,Sales Managers,3.88,0.13,3.63,4.12
+8089,0.057794537,Desktop Analyst,Desktop Publishers,3.75,0.25,3.26,4.24
+8850,0.05256099,Intelligence SME,Business Intelligence Analysts,3.88,0.13,3.63,4.12
+5653,0.051398353,Database Programmer,Database Administrators,3.5,0.19,3.13,3.87
+18409,0.050857573,Transportation Specialist,Transportation Managers,4,0,4,4
+10264,0.0505709,Security Officer,Security Managers,4,0,4,4
+3839,0.044701192,Security Architect,Security Managers,4,0,4,4
+18357,0.04229911,Massage Therapist,Physical Therapist Assistants,3.25,0.16,2.93,3.57
+6264,0.039563018,Work Study,"Social Work Teachers, Postsecondary",4.25,0.16,3.93,4.57
+16138,0.038062427,Hardware Technician,Computer Hardware Engineers,4,0,4,4
+8342,0.032970721,Project Manager,Wind Energy Project Managers,3.88,0.13,3.63,4.12
+11128,0.031341874,Welder Mechanic,"Welders, Cutters, and Welder Fitters",3,0,3,3
+8546,0.030947699,Sales Associate,Sales Managers,3.88,0.13,3.63,4.12
+7381,0.029621506,Senior Security Engineer,Security Managers,4,0,4,4
+9506,0.029621506,Senior Security Engineer,Security Managers,4,0,4,4
+15429,0.027735698,"Talent Manager, Founder",Talent Directors,3.88,0.13,3.63,4.12
+14522,0.024632525,Security Guard,Security Managers,4,0,4,4
+1110,0.024386531,Lead Engineering Manager,Architectural and Engineering Managers,4.12,0.23,3.68,4.57
+6874,0.019356635,Operation,Nuclear Equipment Operation Technicians,3.62,0.18,3.27,3.98
+1361,0.018771763,Desktop Support,Desktop Publishers,3.75,0.25,3.26,4.24
+3276,0.012902055,Technical Services Manager,Administrative Services Managers,4,0,4,4
+11781,0.011575428,Graphic Design Consultant,Graphic Designers,3.25,0.16,2.93,3.57
+7026,0.009047313,IT Operations Manager,General and Operations Managers,3.88,0.13,3.63,4.12
+18054,0.006268943,Sales Representative,Sales Managers,3.88,0.13,3.63,4.12
+2820,0.005027656,Instructional Design Manager,Instructional Coordinators,4,0,4,4
+8696,-0.000478397,Internet Services Manager,Administrative Services Managers,4,0,4,4
+1563,-0.000694556,Molecular Biologist I,Molecular and Cellular Biologists,4.38,0.18,4.02,4.73
+4542,-0.000694556,Distribution Transition Manager,Storage and Distribution Managers,3.62,0.18,3.27,3.98
+4894,-0.00376539,Sales Rep,Sales Managers,3.88,0.13,3.63,4.12
+2567,-0.005407964,Applications Engineer,"Software Developers, Applications",3.12,0.13,2.88,3.37
+10211,-0.006509995,Digital Marketing Specialist,Marketing Managers,3.88,0.13,3.63,4.12
+9760,-0.010018054,Production Team Lead,Team Assemblers,2.88,0.23,2.43,3.32
+8900,-0.011277673,Broadcast Engineer,Broadcast News Analysts,4,0,4,4
+3023,-0.015776503,Technical & Operations Manager,General and Operations Managers,3.88,0.13,3.63,4.12
+17651,-0.015891854,Executive Assistant,Executive Secretaries and Executive Administrative Assistants,4,0,4,4
+5096,-0.019270858,Manufacturing Technician III,Manufacturing Engineers,4,0,4,4
+16947,-0.023398506,Senior Parts Expeditor,Parts Salespersons,3.88,0.13,3.63,4.12
+17501,-0.025855522,Creative Production Manager,Industrial Production Managers,3.75,0.16,3.43,4.07
+1963,-0.028865758,Administrative Assistant,Administrative Services Managers,4,0,4,4
+10161,-0.034091383,Scale Master,Automotive Master Mechanics,3.12,0.13,2.88,3.37
+18105,-0.036077572,Performance Marketing Analyst,Marketing Managers,3.88,0.13,3.63,4.12
+3687,-0.036554576,Senior Network Administrator,Network and Computer Systems Administrators,3.88,0.13,3.63,4.12
+17299,-0.038365791,Director of Sales,Sales Managers,3.88,0.13,3.63,4.12
+17802,-0.038602237,Research and Development Engineer,Training and Development Managers,4,0,4,4
+12789,-0.042473756,Nuclear Security Officer,Security Managers,4,0,4,4
+1813,-0.044013519,Owner/Travel Agent,Travel Guides,3.25,0.25,2.76,3.74
+9556,-0.045672585,Civil/structural Designer,Civil Engineers,4,0,4,4
+11731,-0.046558974,Senior Loan Officer,Loan Counselors,4,0,4,4
+13041,-0.046558974,Senior Loan Officer,Loan Counselors,4,0,4,4
+17449,-0.046697506,Backroom Team Member,Team Assemblers,2.88,0.23,2.43,3.32
+7231,-0.046736167,Service Center Manager,Food Service Managers,3.62,0.18,3.27,3.98
+18205,-0.048915707,Truck Driver,Pile-Driver Operators,2.5,0.19,2.13,2.87
+13451,-0.049868715,Fund Accountant,Investment Fund Managers,4,0.27,3.48,4.52
+5348,-0.05106268,Service Technician,Food Service Managers,3.62,0.18,3.27,3.98
+11530,-0.052720157,Chemistry Lab Technician,"Chemistry Teachers, Postsecondary",4.12,0.13,3.88,4.37
+6011,-0.053385721,"Programmer, Online services",Online Merchants,3.62,0.18,3.27,3.98
+6672,-0.053385721,Estimator/Project Manager,Wind Energy Project Managers,3.88,0.13,3.63,4.12
+5198,-0.055292958,Production Artist,Industrial Production Managers,3.75,0.16,3.43,4.07
+16696,-0.056025096,Graduate Student,Graduate Teaching Assistants,3.88,0.13,3.63,4.12
+14171,-0.058372075,Assistant Attorney General,General and Operations Managers,3.88,0.13,3.63,4.12
+6470,-0.05925543,News Producer,Broadcast News Analysts,4,0,4,4
+16746,-0.063045254,Student Activities Director,"Directors, Religious Activities and Education",3.88,0.13,3.63,4.12
+6572,-0.063360929,Public Services,Administrative Services Managers,4,0,4,4
+6774,-0.065613964,Software Engineer,"Software Developers, Applications",3.12,0.13,2.88,3.37
+14221,-0.065613964,Software Engineer,"Software Developers, Applications",3.12,0.13,2.88,3.37
+6314,-0.065613964,Software Engineer,"Software Developers, Applications",3.12,0.13,2.88,3.37
+12032,-0.065613964,Software Engineer,"Software Developers, Applications",3.12,0.13,2.88,3.37
+10521,-0.065613964,Software Engineer,"Software Developers, Applications",3.12,0.13,2.88,3.37
+14622,-0.065613964,Software Engineer,"Software Developers, Applications",3.12,0.13,2.88,3.37
+653,-0.065613964,Software Engineer,"Software Developers, Applications",3.12,0.13,2.88,3.37
+11179,-0.065613964,Software Engineer,"Software Developers, Applications",3.12,0.13,2.88,3.37
+11279,-0.065613964,Software Engineer,"Software Developers, Applications",3.12,0.13,2.88,3.37
+2064,-0.065613964,Software Engineer,"Software Developers, Applications",3.12,0.13,2.88,3.37
+17199,-0.065741252,Civil/Structural EI,Civil Engineers,4,0,4,4
+3483,-0.068457966,Motion Picture Director,"Camera Operators, Television, Video, and Motion Picture",3.25,0.16,2.93,3.57
+12940,-0.072214707,Shuttle Driver,Pile-Driver Operators,2.5,0.19,2.13,2.87
+16293,-0.073341699,Project Engineer,Wind Energy Project Managers,3.88,0.13,3.63,4.12
+12689,-0.073341699,Project Engineer,Wind Energy Project Managers,3.88,0.13,3.63,4.12
+9251,-0.073341699,Project Engineer,Wind Energy Project Managers,3.88,0.13,3.63,4.12
+2923,-0.077240693,Quality Engineer,Quality Control Systems Managers,4.12,0.13,3.88,4.37
+203,-0.077536676,Transit Operator,Transit and Railroad Police,3.12,0.13,2.88,3.37
+8749,-0.078000999,Sales Planning Associate,Sales Managers,3.88,0.13,3.63,4.12
+5857,-0.079264971,Client Services,Administrative Services Managers,4,0,4,4
+15831,-0.081186647,Operations Staff,General and Operations Managers,3.88,0.13,3.63,4.12
+14673,-0.082043311,Service Writer,Food Service Managers,3.62,0.18,3.27,3.98
+1260,-0.082827248,Farm Assistant,Farm and Ranch Managers,3.25,0.16,2.93,3.57
+14976,-0.08348872,Chief Operating Officer,Chief Executives,4.12,0.13,3.88,4.37
+8239,-0.083704879,Computer System Specialist,Computer and Information Systems Managers,4,0,4,4
+3226,-0.089034402,Test Engineer,Geological Sample Test Technicians,3.62,0.18,3.27,3.98
+253,-0.095991541,Inside Sales Representative,Sales Managers,3.88,0.13,3.63,4.12
+1663,-0.099395859,Network Security Engineer III,Security Managers,4,0,4,4
+4994,-0.103557387,Software Architect,"Software Developers, Applications",3.12,0.13,2.88,3.37
+16796,-0.103719276,92Y Supply Specialist,Supply Chain Managers,4,0,4,4
+2617,-0.105127108,Real Estate Agent,"Property, Real Estate, and Community Association Managers",3.75,0.16,3.43,4.07
+12437,-0.105611229,Director of Engineering,Architectural and Engineering Managers,4.12,0.23,3.68,4.57
+8189,-0.108156104,Field Service Engineer,Food Service Managers,3.62,0.18,3.27,3.98
+10825,-0.108156104,Field Service Engineer,Food Service Managers,3.62,0.18,3.27,3.98
+2417,-0.109134631,Clinical Pharmacist,Clinical Research Coordinators,4,0,4,4
+10314,-0.111285122,Project Designer,Wind Energy Project Managers,3.88,0.13,3.63,4.12
+3429,-0.113807879,Account Mangament,Bill and Account Collectors,3.12,0.13,2.88,3.37
+1,-0.113807879,Head Cashier,Chefs and Head Cooks,3,0,3,3
+11329,-0.114626385,Account Executive,Bill and Account Collectors,3.12,0.13,2.88,3.37
+6974,-0.115449747,Project Estimator,Wind Energy Project Managers,3.88,0.13,3.63,4.12
+13605,-0.118152338,Executive & Curatorial Assistant,Executive Secretaries and Executive Administrative Assistants,4,0,4,4
+16085,-0.118637072,Senior Software Engineer,"Software Developers, Applications",3.12,0.13,2.88,3.37
+52,-0.118637072,Senior Software Engineer,"Software Developers, Applications",3.12,0.13,2.88,3.37
+12739,-0.119989831,Lead Service Technician,Food Service Managers,3.62,0.18,3.27,3.98
+13760,-0.120824518,Network Engineer,Network and Computer Systems Administrators,3.88,0.13,3.63,4.12
+17601,-0.121734724,Mortgage Loan Originator,Loan Counselors,4,0,4,4
+5398,-0.122433648,Field Energy Consultant,Wind Energy Operations Managers,3.75,0.16,3.43,4.07
+6824,-0.123023706,Dairy Manager (in Training),Training and Development Managers,4,0,4,4
+6162,-0.12544643,Plant Engineer,Biomass Power Plant Managers,3.75,0.16,3.43,4.07
+14724,-0.126753437,Continuous Improvement Consultant,Continuous Mining Machine Operators,2.75,0.16,2.43,3.07
+6214,-0.126841151,"Senior Manager, Customer Success",Customer Service Representatives,3.38,0.18,3.02,3.73
+9051,-0.127129205,Sales and Creative Design,Sales Managers,3.88,0.13,3.63,4.12
+6111,-0.128426109,Real Estate Broker,"Property, Real Estate, and Community Association Managers",3.75,0.16,3.43,4.07
+3890,-0.129213154,Adjunct Instructor of History,"History Teachers, Postsecondary",4.25,0.16,3.93,4.57
+14068,-0.133826629,Industrial Maintenance Technician,Industrial Production Managers,3.75,0.16,3.43,4.07
+7431,-0.137821644,Network Technician,Network and Computer Systems Administrators,3.88,0.13,3.63,4.12
+15228,-0.138864532,VoIP Services Supervisor,Administrative Services Managers,4,0,4,4
+756,-0.139862872,Head of Digital Marketing,Marketing Managers,3.88,0.13,3.63,4.12
+7833,-0.14063234,Network Consultant,Network and Computer Systems Administrators,3.88,0.13,3.63,4.12
+453,-0.140859624,Voice Data and Video Technician,Audio and Video Equipment Technicians,3.5,0.19,3.13,3.87
+14876,-0.141688796,Structural Engineer,Structural Iron and Steel Workers,2.75,0.16,2.43,3.07
+3584,-0.144575447,Software Engineer III,"Software Developers, Applications",3.12,0.13,2.88,3.37
+5298,-0.144587869,special inspector,"Preschool Teachers, Except Special Education",3.75,0.16,3.43,4.07
+11429,-0.145171331,Technical Support,Computer User Support Specialists,4,0,4,4
+17149,-0.146167843,Sr Quality Engineer,Quality Control Systems Managers,4.12,0.13,3.88,4.37
+13242,-0.146445757,PC and Network Technician,Network and Computer Systems Administrators,3.88,0.13,3.63,4.12
+5044,-0.147504868,National Account Manager,Bill and Account Collectors,3.12,0.13,2.88,3.37
+7935,-0.149548149,Emergency Room RN II,Emergency Management Directors,4,0,4,4
+14926,-0.1524665,"Director, IS Operations",General and Operations Managers,3.88,0.13,3.63,4.12
+4041,-0.15296918,Data Analyst Processor,Data Warehousing Specialists,3.88,0.13,3.63,4.12
+3788,-0.153344131,House Operations Assistant,General and Operations Managers,3.88,0.13,3.63,4.12
+4342,-0.155253504,Social Services Department Head,Social and Community Service Managers,3.75,0.16,3.43,4.07
+103,-0.156295363,Library Technical Assistant,"Library Science Teachers, Postsecondary",4.12,0.13,3.88,4.37
+4693,-0.156580495,Senior Software Architect,"Software Developers, Applications",3.12,0.13,2.88,3.37
+7482,-0.157323042,Complex Environmental Manager,Environmental Compliance Inspectors,4,0,4,4
+959,-0.157539201,Strategic Account Manager,Bill and Account Collectors,3.12,0.13,2.88,3.37
+4593,-0.157669226,Cloud Solutions Sales Associate,Sales Managers,3.88,0.13,3.63,4.12
+16846,-0.158285579,PHD Graduate Student,Graduate Teaching Assistants,3.88,0.13,3.63,4.12
+704,-0.158551782,Ops Support,Computer User Support Specialists,4,0,4,4
+10365,-0.15981102,Accounting assistant,"Bookkeeping, Accounting, and Auditing Clerks",3.25,0.16,2.93,3.57
+13709,-0.167385622,Table Game Dealer,Video Game Designers,3.62,0.18,3.27,3.98
+2367,-0.167874447,C++ Software Engineer,"Software Developers, Applications",3.12,0.13,2.88,3.37
+1763,-0.167874447,Controls Software Engineer,"Software Developers, Applications",3.12,0.13,2.88,3.37
+8039,-0.167974822,Computer Technician,Computer and Information Systems Managers,4,0,4,4
+13658,-0.171039128,Premier Service Agent,Food Service Managers,3.62,0.18,3.27,3.98
+10623,-0.172139446,Probation Parole Officer,Probation Officers and Correctional Treatment Specialists,3.62,0.18,3.27,3.98
+12539,-0.174475191,FedEx Delivery Driver,Pile-Driver Operators,2.5,0.19,2.13,2.87
+4091,-0.177419463,Systems Project Consultant,Wind Energy Project Managers,3.88,0.13,3.63,4.12
+14826,-0.179632219,Structural Designer,Structural Iron and Steel Workers,2.75,0.16,2.43,3.07
+2317,-0.18373337,Executive Chef,Executive Secretaries and Executive Administrative Assistants,4,0,4,4
+15328,-0.189423244,Head of Supplies,Chefs and Head Cooks,3,0,3,3
+9910,-0.197413218,Lead Virtual Delivery Specialist,Light Truck or Delivery Services Drivers,3,0,3,3
+2517,-0.199457577,Instrument man,Musical Instrument Repairers and Tuners,3,0,3,3
+1059,-0.199786002,Network Engineer II,Network and Computer Systems Administrators,3.88,0.13,3.63,4.12
+15882,-0.200527976,Senior National Account Manager,Bill and Account Collectors,3.12,0.13,2.88,3.37
+16394,-0.204525595,Director Of Software Engineering,Architectural and Engineering Managers,4.12,0.23,3.68,4.57
+15076,-0.206301192,Financial Controller,"Financial Managers, Branch or Department",4,0,4,4
+16645,-0.206301192,Financial Advisor,"Financial Managers, Branch or Department",4,0,4,4
+7633,-0.208931621,Head of Project Management,Emergency Management Directors,4,0,4,4
+5706,-0.211133779,Customer Support Center Technician,Customer Service Representatives,3.38,0.18,3.02,3.73
+4242,-0.214655309,Private Process Server,Private Detectives and Investigators,3.88,0.13,3.63,4.12
+8393,-0.215076553,Station Manager,Gas Compressor and Gas Pumping Station Operators,3.12,0.13,2.88,3.37
+12285,-0.217025395,IT Data & Workstation Analyst,Data Warehousing Specialists,3.88,0.13,3.63,4.12
+15581,-0.217748891,Bookkeeping & Tax Service,Food Service Managers,3.62,0.18,3.27,3.98
+2973,-0.218342932,Teller,"Computer, Automated Teller, and Office Machine Repairers",3.12,0.13,2.88,3.37
+6417,-0.220566198,Senior VP Global Operations,General and Operations Managers,3.88,0.13,3.63,4.12
+13141,-0.224876842,Branch Teen Librarian,"Financial Managers, Branch or Department",4,0,4,4
+5146,-0.228202003,IT Systems Administrator,Computer and Information Systems Managers,4,0,4,4
+1613,-0.233072937,Sr. Systems Administrator,Computer and Information Systems Managers,4,0,4,4
+2164,-0.235692397,Product Support Supervisor,Computer User Support Specialists,4,0,4,4
+10674,-0.244804414,Director Of Event Operations,General and Operations Managers,3.88,0.13,3.63,4.12
+12082,-0.257180649,Advanced Repair Agent,"Maintenance and Repair Workers, General",3,0,3,3
+7180,-0.260013126,Class A Driver Waterworks,Pile-Driver Operators,2.5,0.19,2.13,2.87
+8950,-0.266910251,System Test Engineer II,Geological Sample Test Technicians,3.62,0.18,3.27,3.98
+1462,-0.271606617,Tier 3 Lync Team Systems Engineer,Team Assemblers,2.88,0.23,2.43,3.32
+13914,-0.275116892,ITS Service Center Coordinator,Food Service Managers,3.62,0.18,3.27,3.98
+1863,-0.291680209,Technical Support Engineer ll,Computer User Support Specialists,4,0,4,4
+909,-0.303027343,hotel auditor,"Hotel, Motel, and Resort Desk Clerks",3,0,3,3
+13863,-0.305100972,Senior Technology Consultant,Biofuels/Biodiesel Technology and Product Development Managers,3.62,0.18,3.27,3.98
+8139,-0.308406276,Senior Product Manager,Biofuels/Biodiesel Technology and Product Development Managers,3.62,0.18,3.27,3.98
+7076,-0.308437988,Delivery Manager,Light Truck or Delivery Services Drivers,3,0,3,3
+7127,-0.31070542,Business Manager,"Agents and Business Managers of Artists, Performers, and Athletes",3.88,0.13,3.63,4.12
+9860,-0.31110013,President / Lead Systems Architect,Computer and Information Systems Managers,4,0,4,4
+16594,-0.315352829,Warehouse Lead,"Stock Clerks- Stockroom, Warehouse, or Storage Yard",2.75,0.16,2.43,3.07
+17098,-0.318596009,Financial Suppprt Caseworker,"Financial Managers, Branch or Department",4,0,4,4
+9710,-0.321927085,Process Improvement Consultant II,Photographic Process Workers and Processing Machine Operators,3.25,0.16,2.93,3.57
+4192,-0.324310318,Sr. Product Manager,Biofuels/Biodiesel Technology and Product Development Managers,3.62,0.18,3.27,3.98
+1009,-0.324868482,AV/IT Support Admin,Computer User Support Specialists,4,0,4,4
+9961,-0.333462929,Sr. VP Services Business Unit,Administrative Services Managers,4,0,4,4
+15128,-0.338855798,PSE Mail Processing Clerk,"Postal Service Mail Sorters, Processors, and Processing Machine Operators",3,0,3,3
+3990,-0.346786721,Applecare At Home Advisor,"Home Economics Teachers, Postsecondary",4,0,4,4
+3175,-0.348686162,Warehouse Worker,"Stock Clerks- Stockroom, Warehouse, or Storage Yard",2.75,0.16,2.43,3.07
+1160,-0.349692298,Level 2 Technical Support,Computer User Support Specialists,4,0,4,4
+303,-0.351839184,Line Cook,First-Line Supervisors of Correctional Officers,3.88,0.13,3.63,4.12
+3737,-0.357755535,Front Desk Assistant,"Hotel, Motel, and Resort Desk Clerks",3,0,3,3
+8646,-0.364493755,Community Director,"Property, Real Estate, and Community Association Managers",3.75,0.16,3.43,4.07
+12183,-0.365897497,Pastor of Technology,Biofuels/Biodiesel Technology and Product Development Managers,3.62,0.18,3.27,3.98
+10926,-0.366701952,Field Radio Operator,Radio Frequency Identification Device Specialists,3.62,0.18,3.27,3.98
+13091,-0.367304452,Property Analyst,"Property, Real Estate, and Community Association Managers",3.75,0.16,3.43,4.07
+14572,-0.369201032,Retail Associate,"Wholesale and Retail Buyers, Except Farm Products",3.25,0.16,2.93,3.57
+11831,-0.374545472,Tier III Technical Support Analyst,Computer User Support Specialists,4,0,4,4
+16192,-0.379570344,Product Assistant,Biofuels/Biodiesel Technology and Product Development Managers,3.62,0.18,3.27,3.98
+12335,-0.382576232,Product Owner,Biofuels/Biodiesel Technology and Product Development Managers,3.62,0.18,3.27,3.98
+4944,-0.382863338,Tax Accountant/Auditor,"Tax Examiners and Collectors, and Revenue Agents",4,0,4,4
+3376,-0.385433151,Multiple roles,"Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic",3,0,3,3
+5501,-0.397892868,Front Desk Receptionist,"Hotel, Motel, and Resort Desk Clerks",3,0,3,3
+16896,-0.400632427,Senior Global Product Manager,Biofuels/Biodiesel Technology and Product Development Managers,3.62,0.18,3.27,3.98
+17701,-0.410698472,SAP Delivery Manager,Light Truck or Delivery Services Drivers,3,0,3,3
+10111,-0.411157535,ITS Help Desk,"Hotel, Motel, and Resort Desk Clerks",3,0,3,3
+17048,-0.41701232,IT Program Manager,"Education Administrators, Preschool and Childcare Center/Program",4,0,4,4
+14422,-0.417108683,Director of Technology & Media,Biofuels/Biodiesel Technology and Product Development Managers,3.62,0.18,3.27,3.98
+9353,-0.424365311,Director of Finance and,General and Operations Managers,3.88,0.13,3.63,4.12
+2266,-0.426937314,Air package handler,Heating and Air Conditioning Mechanics and Installers,3.25,0.16,2.93,3.57
+12890,-0.435692275,Noblesville High School,"Education Administrators, Elementary and Secondary School",4.25,0.16,3.93,4.57
+5248,-0.436825662,Business Analyst,"Agents and Business Managers of Artists, Performers, and Athletes",3.88,0.13,3.63,4.12
+16034,-0.436825662,Business Analyst,"Agents and Business Managers of Artists, Performers, and Athletes",3.88,0.13,3.63,4.12
+1310,-0.436825662,Business Analyst,"Agents and Business Managers of Artists, Performers, and Athletes",3.88,0.13,3.63,4.12
+2870,-0.437898485,Business Owner,"Agents and Business Managers of Artists, Performers, and Athletes",3.88,0.13,3.63,4.12
+5957,-0.454961264,Business Leader,"Agents and Business Managers of Artists, Performers, and Athletes",3.88,0.13,3.63,4.12
+6723,-0.457704375,Command Center Supervisor,"Education Administrators, Preschool and Childcare Center/Program",4,0,4,4
+12385,-0.469365577,Technical Manager,"Middle School Teachers, Except Special and Career/Technical Education",4,0,4,4
+16544,-0.486879775,Technical Director,"Middle School Teachers, Except Special and Career/Technical Education",4,0,4,4
+16998,-0.489848771,Senior Business Analyst,"Agents and Business Managers of Artists, Performers, and Athletes",3.88,0.13,3.63,4.12
+5449,-0.500881878,Business Analyst / Consultant,"Agents and Business Managers of Artists, Performers, and Athletes",3.88,0.13,3.63,4.12
+3125,-0.545048502,UX/UI Design and Front,General and Operations Managers,3.88,0.13,3.63,4.12
+10469,-0.552074466,Technical Application Engineer,"Middle School Teachers, Except Special and Career/Technical Education",4,0,4,4
+8596,-0.55643603,Motor Transport Operator 3531,"Electric Motor, Power Tool, and Related Repairers",3,0.19,2.63,3.37
+11026,-0.577182083,Low Voltage System Installer,Public Address System and Other Announcers,3.25,0.16,2.93,3.57
+7331,-0.587760651,Item Processing Specialist,"Postal Service Mail Sorters, Processors, and Processing Machine Operators",3,0,3,3
+14774,-0.693406523,Assistant Professor of Biology,"Agents and Business Managers of Artists, Performers, and Athletes",3.88,0.13,3.63,4.12
+2014,-0.709310565,Vice President of Consulting,"Agents and Business Managers of Artists, Performers, and Athletes",3.88,0.13,3.63,4.12
+4744,-0.719344898,University of the Pacific,"Agents and Business Managers of Artists, Performers, and Athletes",3.88,0.13,3.63,4.12
+8494,-0.729379231,Chaminade University of Honolulu,"Agents and Business Managers of Artists, Performers, and Athletes",3.88,0.13,3.63,4.12
+13813,-0.729379231,"University of California, Davis","Agents and Business Managers of Artists, Performers, and Athletes",3.88,0.13,3.63,4.12
+12639,-0.749447898,Garden of Hope Propagator,"Agents and Business Managers of Artists, Performers, and Athletes",3.88,0.13,3.63,4.12
+16343,-0.813504114,State of Tennessee AMLS Coordinator,"Agents and Business Managers of Artists, Performers, and Athletes",3.88,0.13,3.63,4.12
